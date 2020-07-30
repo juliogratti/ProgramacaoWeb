@@ -1,0 +1,10 @@
+echo "# Oraculo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/juliogratti/Oraculo.git
+git push -u origin master
+
+git add.
+git commit -m "v1"
+git push --all
